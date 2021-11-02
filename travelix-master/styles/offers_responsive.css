@@ -128,24 +128,12 @@
 	}
 	.search_item:first-child
 	{
-		width: 37%;
-	}
-	.search_item:nth-child(2)
-	{
-		width: 16%;
-	}
-	.search_item:nth-child(3)
-	{
-		width: 16%;
+		/*width: 37%;*/
 	}
 	.search_item:nth-child(4)
 	{
-		width: 9.947%;
+		width: 19.894%;
 		margin-right: 0px;
-	}
-	.search_item:nth-child(5)
-	{
-		width: 9.947%;
 	}
 	.search_extras_item
 	{
